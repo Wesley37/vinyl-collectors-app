@@ -8,7 +8,7 @@ A professional, high-performance, enterprise-grade Progressive Web Application (
 
 | Login | Home | Analytics | Grid | Card Maximised | Home Light | Grid Light | Mobile Screen |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="assets/Login.png" width="480" alt="Login"> | <img src="assets/Home.png" width="480" alt="Home"> | <img src="assets/Analytics.png" width="380" alt="Analytics"> | <img src="assets/Grid.png" width="480" alt="Grid"> | <img src="assets/Card Maximised.png" width="480" alt="Grid Maximised"> | <img src="assets/Home Light Mode.png" width="480" alt="Home Light Mode"> | <img src="assets/Grid Light Mode.png" width="480" alt="Grid Light Mode"> | <img src="assets/Mobile Screen.png" width="480" alt="Mobile Screen"> |
+| <img src="assets/Login.png" width="800" alt="Login"> | <img src="assets/Home.png" width="800" alt="Home"> | <img src="assets/Analytics.png" width="380" alt="Analytics"> | <img src="assets/Grid.png" width="800" alt="Grid"> | <img src="assets/Card Maximised.png" width="800" alt="Grid Maximised"> | <img src="assets/Home Light Mode.png" width="800" alt="Home Light Mode"> | <img src="assets/Grid Light Mode.png" width="800" alt="Grid Light Mode"> | <img src="assets/Mobile Screen.png" width="800" alt="Mobile Screen"> |
 
 - **Native Windows Billing Architecture:** Implements a direct, secure integration with the Microsoft Store billing engine through standard WinRT Core SDK Hooks (`StoreContext`) for premium lifetime unlocks.
 - **Industrial-Grade Perimeter Security:** Features a bulletproof Hostname Lock Framework that blocks mobile platform simulation or browser exploit bypasses. Free checkout loops are strictly blocked on the web network layer.
@@ -56,7 +56,7 @@ async def upgrade_to_premium(current_user: DBUser = Depends(get_current_user), d
 
 - **Frontend Client Hosting:** Managed via continuous deployment pipelines on Vercel ([vinyl-app-6cla.vercel.app](https://vercel.app)).
 - **Backend Server Cluster:** Orchestrated live on the Render Hobby Infrastructure ([vinyl-app-jj9s.onrender.com](https://onrender.com)).
-- **Distribution Matrix:** Distributed via signed desktop installation architecture directly through the official Microsoft Store.
+- **Distribution Matrix:** Distributed via signed desktop installation architecture directly through the official Microsoft Store .
 
 ---
 *Developed by **Wesley Israel da Cunha**. Built for audiophiles and professional record preservation specialists worldwide.*
