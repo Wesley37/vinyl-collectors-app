@@ -8,7 +8,7 @@ A professional, high-performance, enterprise-grade Progressive Web Application (
 
 | Login | Home | Analytics | Grid | Card Maximised | Home Light | Grid Light | Mobile Screen |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="assets/Login.png" width="380" alt="Login"> | <img src="assets/Home.png" width="380" alt="Home"> | <img src="assets/Analytics.png" width="380" alt="Analytics"> | <img src="assets/Grid.png" width="380" alt="Grid"> | <img src="assets/Card Maximised.png" width="380" alt="Grid Maximised"> | <img src="assets/Home Light Mode.png" width="380" alt="Home Light Mode"> | <img src="assets/Grid Light Mode.png" width="380" alt="Grid Light Mode"> | <img src="assets/Mobile Screen.png" width="380" alt="Mobile Screen"> |
+| <img src="assets/Login.png" width="480" alt="Login"> | <img src="assets/Home.png" width="480" alt="Home"> | <img src="assets/Analytics.png" width="380" alt="Analytics"> | <img src="assets/Grid.png" width="480" alt="Grid"> | <img src="assets/Card Maximised.png" width="480" alt="Grid Maximised"> | <img src="assets/Home Light Mode.png" width="480" alt="Home Light Mode"> | <img src="assets/Grid Light Mode.png" width="480" alt="Grid Light Mode"> | <img src="assets/Mobile Screen.png" width="480" alt="Mobile Screen"> |
 
 - **Native Windows Billing Architecture:** Implements a direct, secure integration with the Microsoft Store billing engine through standard WinRT Core SDK Hooks (`StoreContext`) for premium lifetime unlocks.
 - **Industrial-Grade Perimeter Security:** Features a bulletproof Hostname Lock Framework that blocks mobile platform simulation or browser exploit bypasses. Free checkout loops are strictly blocked on the web network layer.
