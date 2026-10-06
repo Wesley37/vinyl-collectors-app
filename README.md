@@ -78,7 +78,7 @@ async def upgrade_to_premium(current_user: DBUser = Depends(get_current_user), d
 
 - **Frontend Client Hosting:** Managed via continuous deployment pipelines on Vercel ([vinyl-app-6cla.vercel.app](https://vercel.app)).
 - **Backend Server Cluster:** Orchestrated live on the Render Hobby Infrastructure ([vinyl-app-jj9s.onrender.com](https://onrender.com)).
-- **Distribution Matrix:** Distributed via signed desktop installation architecture directly through the official Microsoft Store (https://apps.microsoft.com/detail/9pbdk8vtw9m3?hl=en-GB&gl=GB).
+- **Distribution Matrix:** Distributed via signed desktop installation architecture directly through the [Official Microsoft Store](https://apps.microsoft.com/detail/9pbdk8vtw9m3?hl=en-GB&gl=GB).
 
 ---
 *Developed by **Wesley Israel da Cunha**. Built for audiophiles and professional record preservation specialists worldwide.*
